@@ -1,5 +1,8 @@
 # MLS Insights
 
+## The Project
+This project idea was formulated for me when I was jus trying to create an idea for my 1st Data Analysis Project, I saw that datasets on the Kaggle and I took it because I love Soccer, then this project has been made for me.
+  
 ## Main Goal
 - Get insights about salaries in MLS;
 - Show top MLS rankings.
