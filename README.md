@@ -1,7 +1,7 @@
 # MLS Insights
 
 ## The Project
-This project idea was formulated for me when I was jus trying to create an idea for my first Data Analysis Project, I saw that datasets on the Kaggle and I took it because I love Soccer, then this project has been made for me.
+This project idea was formulated for me when I was just trying to create an idea for my first Data Analysis Project, I saw that datasets on the Kaggle and I took it because I love Soccer, then this project has been made for me.
 
 ## Main Goal
 - Get insights about salaries in MLS;
